@@ -5,5 +5,6 @@ public class lesson5 {
 
 
         System.out.println("OGO ");
+
     }
 }
