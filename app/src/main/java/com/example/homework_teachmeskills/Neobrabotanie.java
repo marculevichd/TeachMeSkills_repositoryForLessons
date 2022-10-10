@@ -15,6 +15,8 @@ public class Neobrabotanie {
 
 
 
+
+
         try {
             throwCheckedException();
         } catch (Exception e) {
