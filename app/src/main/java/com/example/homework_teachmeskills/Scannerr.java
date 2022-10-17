@@ -10,8 +10,5 @@ public class Scannerr {
             int a = scanner.nextInt();
             System.out.println(a);
         }
-
-
     }
-
 }
